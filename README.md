@@ -4,13 +4,13 @@ The following certifications have enhanced my technical expertise in data analyt
 
 ### SQL for Non Programmers - LinkedIn Learning  [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/CertificateOfCompletion_SQL%20for%20NonProgrammers%20(1).pdf)
 - Strengthened SQL querying, joins, and data manipulation techniques for business insights.
-### Joins in SQL - Data Camp [Link](
+### Joins in SQL - Data Camp [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/Joining%20Data%20In%20SQL.pdf)
 - Mastered inner, left, right, and full joins to efficiently combine and analyze relational datasets.
-### Introduction to Python - Data Camp
+### Introduction to Python - Data Camp [Link](
 - Gained foundational understanding of Python programming and its application in data analysis.
-### Intermediate Python - Data Camp
+### Intermediate Python - Data Camp [Link](
 - Improved proficiency in handling data using pandas and NumPy for analytical projects.
-### Supervised Learning with Scikit-learn - Data Camp
+### Supervised Learning with Scikit-learn - Data Camp [Link](
 - Built and evaluated predictive models for regression and classification problems.
-### Unsupervised Learning in Python - Data Camp
+### Unsupervised Learning in Python - Data Camp [Link](
 - Applied clustering and dimensionality reduction techniques to identify hidden data patterns.
