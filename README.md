@@ -1,5 +1,5 @@
 ## 🥇Certifications
-Continuous learning is a key part of my growth as a data and business analyst. 
+Continuous learning is a key part of my growth as a aspiring data and business analyst. 
 The following certifications have enhanced my technical expertise in data analytics, Python programming, and machine learning.
 
 ### SQL for Non Programmers - LinkedIn Learning  [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/CertificateOfCompletion_SQL%20for%20NonProgrammers%20(1).pdf)
@@ -12,5 +12,5 @@ The following certifications have enhanced my technical expertise in data analyt
 - Improved proficiency in handling data using pandas and NumPy for analytical projects.
 ### Supervised Learning with Scikit-learn - Data Camp [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/Supervised%20Learning%20with%20Scikit-Learn%20Cert.pdf)
 - Built and evaluated predictive models for regression and classification problems.
-### Unsupervised Learning in Python - Data Camp [Link](
+### Unsupervised Learning in Python - Data Camp [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/Unsupervised%20Learning%20in%20Python%20certificate.pdf)
 - Applied clustering and dimensionality reduction techniques to identify hidden data patterns.
