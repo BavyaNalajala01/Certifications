@@ -6,7 +6,7 @@ The following certifications have enhanced my technical expertise in data analyt
 - Strengthened SQL querying, joins, and data manipulation techniques for business insights.
 ### Joins in SQL - Data Camp [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/Joining%20Data%20In%20SQL.pdf)
 - Mastered inner, left, right, and full joins to efficiently combine and analyze relational datasets.
-### Introduction to Python - Data Camp [Link](
+### Introduction to Python - Data Camp [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/Intro%20to%20python.pdf) 
 - Gained foundational understanding of Python programming and its application in data analysis.
 ### Intermediate Python - Data Camp [Link](
 - Improved proficiency in handling data using pandas and NumPy for analytical projects.
