@@ -10,7 +10,7 @@ The following certifications have enhanced my technical expertise in data analyt
 - Gained foundational understanding of Python programming and its application in data analysis.
 ### Intermediate Python - Data Camp [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/INTERMEDIATE%20PYTHON%20CERT.pdf)
 - Improved proficiency in handling data using pandas and NumPy for analytical projects.
-### Supervised Learning with Scikit-learn - Data Camp [Link](
+### Supervised Learning with Scikit-learn - Data Camp [Link](https://github.com/BavyaNalajala01/Certifications/blob/main/Supervised%20Learning%20with%20Scikit-Learn%20Cert.pdf)
 - Built and evaluated predictive models for regression and classification problems.
 ### Unsupervised Learning in Python - Data Camp [Link](
 - Applied clustering and dimensionality reduction techniques to identify hidden data patterns.
